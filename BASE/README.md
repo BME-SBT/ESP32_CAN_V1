@@ -1,5 +1,7 @@
 State of the project:
-Schematic design done, LED package size needs to finalized, pin headder will be selected after layout 
+Schematic design done 
+floorplan done
+working on routing: power nets still need to be routed
 
 
 
