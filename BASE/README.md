@@ -1,7 +1,14 @@
 State of the project:
+
 Schematic design done 
+
 floorplan done
-working on routing: power nets still need to be routed
+
+routing done
+
+pcb done
+
+working on: ibom, manufacturing and first prototype
 
 
 
