@@ -8,7 +8,7 @@ routing done
 
 pcb done
 
-working on: ibom, manufacturing and first prototype
+working on: manufacturing and first prototype
 
 
 

@@ -14,7 +14,7 @@ This version fixes issues with IO protection and EFUSE making the board easier a
 -EFUSE
 
 # ADD-ON boards:
-Soon to be designed :)
+Breakout board: simple breakout board for validation and testing
 
 
 
